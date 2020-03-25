@@ -92,3 +92,4 @@ if DIR :
     file.close
     print("\n订阅内容已更新")
 
+input("回车退出")
