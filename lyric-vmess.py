@@ -5,11 +5,12 @@
 
 
 #载入必要的库
+import os
 os.system('pip install requests')
 import requests 
 import json
 from base64 import b64decode,b64encode
-import os
+
 DIR=0
 
 
