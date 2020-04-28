@@ -5,9 +5,12 @@
 ### 1）
 直接运行以下命令，按照提示输入即可
 ```
-#
+#Ubuntu:
 python3 <(curl -s -L  https://raw.githubusercontent.com/Masterchiefm/Lyric-vmess/master/lyric-vmess.py)
 #
+
+#Windows:
+curl  https://raw.githubusercontent.com/Masterchiefm/Lyric-vmess/master/lyric-vmess.py -O lyric-vmess.py ; python lyric-vmess.py
 ```
 ### 2）
 
